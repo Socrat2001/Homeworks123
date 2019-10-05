@@ -16,9 +16,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
   <component name="ProjectId" id="1RgSrahae4g4KkvqSAdovvtIugn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
@@ -34,23 +36,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.homework0310_4a">
-    <configuration name="homework0310" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework0310" />
+  <component name="RunManager" selected="Application.deshifrwithk">
+    <configuration name="deshifr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deshifr" />
       <module name="Homeworks" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="homework0310_1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework0310_1" />
-      <module name="Homeworks" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="homework0310_2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="homework0310_2" />
+    <configuration name="deshifrwithk" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="deshifrwithk" />
       <module name="Homeworks" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -70,13 +65,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="shifr" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shifr" />
+      <module name="Homeworks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.deshifrwithk" />
+        <item itemvalue="Application.shifr" />
+        <item itemvalue="Application.deshifr" />
         <item itemvalue="Application.homework0310_4a" />
         <item itemvalue="Application.homework0310_3" />
-        <item itemvalue="Application.homework0310_2" />
-        <item itemvalue="Application.homework0310_1" />
-        <item itemvalue="Application.homework0310" />
       </list>
     </recent_temporary>
   </component>
@@ -92,5 +94,18 @@
       <updated>1570087446009</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
